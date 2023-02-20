@@ -1,0 +1,12 @@
+C:\Users\dmagr\OneDrive - kean.edu\Desktop\assignments\assign4\maxnum\MaxNumberLibrary\obj\Debug\net7.0\MaxNumberLibrary.csproj.AssemblyReference.cache
+C:\Users\dmagr\OneDrive - kean.edu\Desktop\assignments\assign4\maxnum\MaxNumberLibrary\obj\Debug\net7.0\MaxNumberLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmagr\OneDrive - kean.edu\Desktop\assignments\assign4\maxnum\MaxNumberLibrary\obj\Debug\net7.0\MaxNumberLibrary.AssemblyInfoInputs.cache
+C:\Users\dmagr\OneDrive - kean.edu\Desktop\assignments\assign4\maxnum\MaxNumberLibrary\obj\Debug\net7.0\MaxNumberLibrary.AssemblyInfo.cs
+C:\Users\dmagr\OneDrive - kean.edu\Desktop\assignments\assign4\maxnum\MaxNumberLibrary\obj\Debug\net7.0\MaxNumberLibrary.csproj.CoreCompileInputs.cache
+C:\Users\dmagr\OneDrive - kean.edu\Desktop\assignments\assign4\maxnum\MaxNumberLibrary\bin\Debug\net7.0\MaxNumberLibrary.deps.json
+C:\Users\dmagr\OneDrive - kean.edu\Desktop\assignments\assign4\maxnum\MaxNumberLibrary\bin\Debug\net7.0\MaxNumberLibrary.dll
+C:\Users\dmagr\OneDrive - kean.edu\Desktop\assignments\assign4\maxnum\MaxNumberLibrary\bin\Debug\net7.0\MaxNumberLibrary.pdb
+C:\Users\dmagr\OneDrive - kean.edu\Desktop\assignments\assign4\maxnum\MaxNumberLibrary\obj\Debug\net7.0\MaxNumberLibrary.dll
+C:\Users\dmagr\OneDrive - kean.edu\Desktop\assignments\assign4\maxnum\MaxNumberLibrary\obj\Debug\net7.0\refint\MaxNumberLibrary.dll
+C:\Users\dmagr\OneDrive - kean.edu\Desktop\assignments\assign4\maxnum\MaxNumberLibrary\obj\Debug\net7.0\MaxNumberLibrary.pdb
+C:\Users\dmagr\OneDrive - kean.edu\Desktop\assignments\assign4\maxnum\MaxNumberLibrary\obj\Debug\net7.0\ref\MaxNumberLibrary.dll
